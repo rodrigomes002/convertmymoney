@@ -1,3 +1,3 @@
 # convertmymoney
 
-app for convert(cotation) your dolar to reais
+app for convert(cotation) your $ to R$.
